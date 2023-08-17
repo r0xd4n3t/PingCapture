@@ -25,9 +25,9 @@ Whether you're troubleshooting network connectivity, monitoring server health, o
 automating the ping process, recording detailed logs, and providing visual snapshots of each step.
 
 # Features
--    Effortless Ping Automation: PingCapture takes the hassle out of pinging multiple IP addresses by automating the entire process. Simply provide a list of targets and let the script handle the rest.
--    Comprehensive Logging: Every ping request's results are logged in detail. This helps you track changes, identify connectivity issues, and maintain a historical record of network performance.
--    Visual Verification: Alongside the detailed logs, PingCapture captures screenshots of the console after each ping operation. These screenshots provide visual confirmation of the executed commands and results.
+-    **Effortless Ping Automation**: PingCapture takes the hassle out of pinging multiple IP addresses by automating the entire process. Simply provide a list of targets and let the script handle the rest.
+-    **Comprehensive Logging**: Every ping request's results are logged in detail. This helps you track changes, identify connectivity issues, and maintain a historical record of network performance.
+-    **Visual Verification**: Alongside the detailed logs, PingCapture captures screenshots of the console after each ping operation. These screenshots provide visual confirmation of the executed commands and results.
 
 # How It Works
 1. Provide a list of IP addresses in a file.
@@ -36,9 +36,9 @@ automating the ping process, recording detailed logs, and providing visual snaps
 
 # Why PingCapture?
 
-- Saves Time and Effort: No need to manually ping each IP address one by one. PingCapture handles the repetitive tasks, letting you focus on analyzing the results.
-- Enhanced Troubleshooting: The combination of detailed logs and screenshots provides a comprehensive view of each ping operation, making it easier to diagnose network issues.   
-- Useful for Documentation: PingCapture's output is ideal for documentation purposes, ensuring you have a clear record of network health and connectivity over time.
+- **Saves Time and Effort**: No need to manually ping each IP address one by one. PingCapture handles the repetitive tasks, letting you focus on analyzing the results.
+- **Enhanced Troubleshooting**: The combination of detailed logs and screenshots provides a comprehensive view of each ping operation, making it easier to diagnose network issues.   
+- **Useful for Documentation**: PingCapture's output is ideal for documentation purposes, ensuring you have a clear record of network health and connectivity over time.
 
 # Getting Started
 
@@ -54,6 +54,6 @@ Found a bug or want to enhance PingCapture's features? Contributions are welcome
 Feel free to fork this repository, make your changes, and submit a pull request.
 
 # License
-This project is licensed under the *MIT License*.
+This project is licensed under the **MIT License**.
 
 <p align="center"><a href=#top>Back to Top</a></p>
