@@ -36,9 +36,9 @@ automating the ping process, recording detailed logs, and providing visual snaps
 
 # Why PingCapture?
 
--    Saves Time and Effort: No need to manually ping each IP address one by one. PingCapture handles the repetitive tasks, letting you focus on analyzing the results.
--    Enhanced Troubleshooting: The combination of detailed logs and screenshots provides a comprehensive view of each ping operation, making it easier to diagnose network issues.
--     Useful for Documentation: PingCapture's output is ideal for documentation purposes, ensuring you have a clear record of network health and connectivity over time.
+- Saves Time and Effort: No need to manually ping each IP address one by one. PingCapture handles the repetitive tasks, letting you focus on analyzing the results.
+- Enhanced Troubleshooting: The combination of detailed logs and screenshots provides a comprehensive view of each ping operation, making it easier to diagnose network issues.   
+- Useful for Documentation: PingCapture's output is ideal for documentation purposes, ensuring you have a clear record of network health and connectivity over time.
 
 # Getting Started
 
